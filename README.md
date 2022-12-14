@@ -5,7 +5,7 @@
     Python     VERY GOOD
     C#         GOOD
     HTML/CSS   GOOD
-    JS         OK
+    JS         GOOD
     C\C++      OK
 
 ## What can i do ?
