@@ -9,10 +9,10 @@
     C\C++      OK
 
 ## What can i do ?
-    Setup LAN Servers
-    Setup WAN access from the oustide with a VPN
-    Configure a network (DMA/DMB/DMZ; VLAN; Firewall configs; etc...)
-    Monitor a network (to target and fix problems)
+    Setup LAN/WAN network infrastructure
+    SysAdmin tasks
+    DevOPS (web/applications)
+    Monitor, diagnose and repair systems
 
 ## 📫 rodrigue95@live.fr
 ## 🌌 http://sudodb.github.io/
